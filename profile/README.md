@@ -4,3 +4,4 @@ SchwiftyOS is an operating system by the people for the people. It's a new appro
 
 - Check out key ideas for the project on the [README](https://github.com/schwiftyos/readme)
 - See our development progress on the [Roadmap](https://github.com/schwiftyos/roadmap)
+- See an additional readme about what this os solves at [swiftos](https://github.com/boldflight/swiftos)
